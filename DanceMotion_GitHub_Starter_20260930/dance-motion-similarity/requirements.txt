@@ -1,0 +1,6 @@
+# Python dependencies for the executable/JSON V1.2 pipeline and experiments.
+# OpenPose binaries and BODY_25 weights must be installed separately.
+# Unpinned: the team's exact tested environment was not supplied.
+numpy
+opencv-python
+matplotlib
